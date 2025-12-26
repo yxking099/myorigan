@@ -1,0 +1,1097 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="凤凰中文" group-title="天浪经典",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰电影" group-title="天浪经典",凤凰电影
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-name="凤凰香港 HD" group-title="天浪经典",凤凰香港 HD
+https://httop.top/fengshows-fenghk
+#EXTINF:-1 tvg-name="星卫电影台" group-title="天浪经典",星卫电影台
+https://k0udeyd8ye5y1czw240ex951x2c10x5302xx1cz.djvod.ndcimgs.com/bs3/video-hls/5240782769998279315_5b89d96c2cad3de2_4681_hlsb.m3u8?x-ks-ptid=178957423116&x-kcdn-pid=12021&kwai-not-alloc=self-cdn&kcdntag=p:Guangdong;i:ChinaTelecom;ft:UNKNOWN;h:UNKNOWN;pn:webserverHls&ocid=63&ss=vpm
+#EXTINF:-1 tvg-name="莲花卫视" group-title="天浪经典",莲花卫视
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+#EXTINF:-1 tvg-name="中国通史" group-title="天浪经典",中国通史
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="天浪经典",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="天浪经典",凤凰资讯
+http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=live1200
+#EXTINF:-1 tvg-name="美亚电影台" group-title="天浪经典",美亚电影台
+https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="AMC电影-台湾" group-title="天浪经典",AMC电影-台湾
+http://211.23.125.95:50007/4gtv-4gtv017/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="Channel [V]" group-title="天浪经典",Channel [V]
+http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+#EXTINF:-1 tvg-name="天映电影" group-title="天浪经典",天映电影
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" group-title="天浪经典",天映经典
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="爱地球频道" group-title="天浪经典",爱地球频道
+https://stream1.freetv.fun/9b6ac39cf69d7a8710b6ee03009781695b898afb49cb5f98ecea39697016c2f7.m3u8
+#EXTINF:-1 tvg-name="中国国际-纪录频道" group-title="天浪经典",中国国际-纪录频道
+https://stream1.freetv.fun/cgtnji-lu-2.m3u8
+#EXTINF:-1 tvg-name="东森新闻" group-title="天浪经典",东森新闻
+http://211.72.174.95:8138/0.ts
+#EXTINF:-1 tvg-name="翡翠剧集台" group-title="天浪经典",翡翠剧集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
+#EXTINF:-1 tvg-name="华丽翡翠" group-title="天浪经典",华丽翡翠
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-name="翡翠台-CH1" group-title="天浪经典",翡翠台-CH1
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="翡翠台-CH2" group-title="天浪经典",翡翠台-CH2
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台-CH3" group-title="天浪经典",翡翠台-CH3
+http://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 tvg-name="HOY76 频道" group-title="天浪经典",HOY76 频道
+http://hls.168.us.kg/u/76/master.m3u8
+#EXTINF:-1 tvg-name="HOY78 频道" group-title="天浪经典",HOY78 频道
+http://hls.168.us.kg/u/78/master.m3u8
+#EXTINF:-1 tvg-name="ASTRO-HD" group-title="天浪经典",ASTRO-HD
+https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="ASTRO-AEC" group-title="天浪经典",ASTRO-AEC
+https://smt.1678520.xyz/smt3.2.1.php?id=AEC
+#EXTINF:-1 tvg-name="ASTRO-AOD" group-title="天浪经典",ASTRO-AOD
+https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="ASTRO-欢喜台" group-title="天浪经典",ASTRO-欢喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 tvg-name="ASTRO-QJ" group-title="天浪经典",ASTRO-QJ
+https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 tvg-name="香港亚洲卫视" group-title="天浪经典",香港亚洲卫视
+https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.m3u8
+#EXTINF:-1 tvg-name="邵氏电影台" group-title="天浪经典",邵氏电影台
+https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
+#EXTINF:-1 tvg-name="精彩电影台" group-title="天浪经典",精彩电影台
+https://yylunbo.ottiptv.cc/yy/1382745096
+#EXTINF:-1 tvg-name="TVB PULS" group-title="天浪经典",TVB PULS
+https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 tvg-name="邵氏动作 HD" group-title="天浪经典",邵氏动作 HD
+https://stream1.freetv.fun/74ff62421aeda7787c01ed5968f3e6176a418bf608351ac8faf5c3d501c70eab.m3u8
+#EXTINF:-1 tvg-name="邵氏喜剧 HD" group-title="天浪经典",邵氏喜剧 HD
+https://stream1.freetv.fun/5b5db4070d49b6949aad5a643411dbcf20868919c31ec99f9881cc1e19f2eaa0.m3u8
+#EXTINF:-1 tvg-name="邵氏武侠 HD" group-title="天浪经典",邵氏武侠 HD
+https://stream1.freetv.fun/960fbbbedcdd596709ff256d7a80286a70a6820a03e20d4d4eaa49816ba4d4c1.m3u8
+#EXTINF:-1 tvg-name="邵氏电影 HD" group-title="天浪经典",邵氏电影 HD
+https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
+#EXTINF:-1 tvg-name="经典电影二台" group-title="天浪经典",经典电影二台
+https://stream1.freetv.fun/13a9e71e43596740eb155ea1b840ca0848884aa34be169b42a3c3e268dce5781.m3u8
+#EXTINF:-1 tvg-name="经典电影台" group-title="天浪经典",经典电影台
+https://yylunbo.ottiptv.cc/yy/1382851522
+#EXTINF:-1 tvg-name="星空卫视" group-title="天浪经典",星空卫视
+http://home.yixi.pro:10043/udp/239.93.0.156:2193
+#EXTINF:-1 tvg-name="TVB-星河频道" group-title="天浪经典",TVB-星河频道
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 tvg-name="台湾华视 HD" group-title="天浪经典",台湾华视 HD
+http://123.51.136.80:8317/0.ts
+#EXTINF:-1 tvg-name="华视新闻 HD" group-title="天浪经典",华视新闻 HD
+http://123.51.136.80:8319/0.ts
+#EXTINF:-1 tvg-name="华视教育 HD" group-title="天浪经典",华视教育 HD
+http://123.51.136.80:8318/0.ts
+#EXTINF:-1 tvg-name="CHC-动作电影" group-title="天浪经典",CHC-动作电影
+http://nas.home.plugintool.top:2333/udp/239.76.252.243:9000
+#EXTINF:-1 tvg-name="4 music" group-title="天浪经典",4 music
+https://stream1.freetv.fun/4music-2.m3u8
+#EXTINF:-1 tvg-name="CMC 音乐台" group-title="天浪经典",CMC 音乐台
+https://stream1.freetv.fun/california-music-channel-1.m3u8
+#EXTINF:-1 tvg-name="SAGA 音乐台" group-title="天浪经典",SAGA 音乐台
+https://stream1.freetv.fun/saga-music-1.m3u8
+#EXTINF:-1 tvg-name="澳门资讯" group-title="天浪经典",澳门资讯
+http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门澳视" group-title="天浪经典",澳门澳视
+http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门综艺" group-title="天浪经典",澳门综艺
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-name="NOW 新闻台" group-title="天浪经典",NOW 新闻台
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="NOW 财经台" group-title="天浪经典",NOW 财经台
+http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-1 tvg-name="NOW 直播台" group-title="天浪经典",NOW 直播台
+http://hls.168.us.kg/u/331/master.m3u8
+#EXTINF:-1 tvg-name="中国国际-法语频道" group-title="天浪经典",中国国际-法语频道
+https://stream1.freetv.fun/cgtn-francais-5.m3u8
+#EXTINF:-1 tvg-name="TVB-翡翠频道" group-title="天浪经典",TVB-翡翠频道
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="中视箐采台 HD" group-title="天浪经典",中视箐采台 HD
+http://123.51.136.80:8322/0.ts
+#EXTINF:-1 tvg-name="中视经典台 HD" group-title="天浪经典",中视经典台 HD
+http://123.51.136.80:8321/0.ts
+#EXTINF:-1 tvg-name="台湾中视 HD" group-title="天浪经典",台湾中视 HD
+http://123.51.136.80:8301/0.ts
+#EXTINF:-1 tvg-name="公视–台语 HD" group-title="天浪经典",公视–台语 HD
+http://123.51.136.80:8306/0.ts
+#EXTINF:-1 tvg-name="环球电视台" group-title="天浪经典",环球电视台
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-name="国际空间站" group-title="天浪经典",国际空间站
+https://v.cdnlz12.com/20230913/10341_d0be8370/index.m3u8
+#EXTINF:-1 tvg-name="TVB-功夫台" group-title="天浪经典",TVB-功夫台
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 tvg-name="CNA 亚洲" group-title="天浪经典",CNA 亚洲
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="香港翡翠台" group-title="天浪经典",香港翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="香港翡翠-黄金台" group-title="天浪经典",香港翡翠-黄金台
+http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-name="台湾台视 HD" group-title="天浪经典",台湾台视 HD
+http://123.51.136.80:8313/0.ts
+#EXTINF:-1 tvg-name="台视新闻 HD" group-title="天浪经典",台视新闻 HD
+http://123.51.136.80:8314/0.ts
+#EXTINF:-1 tvg-name="台视综合 HD" group-title="天浪经典",台视综合 HD
+http://123.51.136.80:8316/0.ts
+#EXTINF:-1 tvg-name="台视财经 HD" group-title="天浪经典",台视财经 HD
+http://123.51.136.80:8315/0.ts
+#EXTINF:-1 tvg-name="台湾台视 HD" group-title="天浪经典",台湾台视 HD
+http://123.51.136.80:8313/0.ts
+#EXTINF:-1 tvg-name="TVBS 新闻" group-title="天浪经典",TVBS 新闻
+https://stream1.freetv.fun/tvbs-news-1.m3u8
+#EXTINF:-1 tvg-name="爱尔达体育3台" group-title="新增频道",爱尔达体育3台
+http://43.251.226.89:5050/smart.php?id=eltasport3_twn&token=8522
+#EXTINF:-1 tvg-name="now新闻" group-title="新增频道",now新闻
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 tvg-name="now财经" group-title="新增频道",now财经
+http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-1 tvg-name="now直播" group-title="新增频道",now直播
+http://hls.168.us.kg/u/331/master.m3u8
+#EXTINF:-1 tvg-name="美亚电影-台湾" group-title="新增频道",美亚电影-台湾
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="凤凰电影频道" group-title="新增频道",凤凰电影频道
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-name="星空卫视频道" group-title="新增频道",星空卫视频道
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1 tvg-name="韩国GCN电视" group-title="新增频道",韩国GCN电视
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
+#EXTINF:-1 tvg-name="恐怖电影院" group-title="新增频道",恐怖电影院
+https://yylunbo.ottiptv.cc/yy/24066336
+#EXTINF:-1 tvg-name="天映频道-马来西亚" group-title="新增频道",天映频道-马来西亚
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映频道-马来西亚(备)" group-title="新增频道",天映频道-马来西亚(备)
+http://122.53.222.9:9981/stream/channelid/1069391940?profile=pass
+#EXTINF:-1 tvg-name="天映经典频道" group-title="新增频道",天映经典频道
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="凤凰中文" group-title="新增频道",凤凰中文
+https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="新增频道",凤凰资讯
+https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰电影" group-title="新增频道",凤凰电影
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-name="ViuTV-香港" group-title="新增频道",ViuTV-香港
+http://hls.168.us.kg/u/99/master.m3u8
+#EXTINF:-1 tvg-name="Viu6TV-香港" group-title="新增频道",Viu6TV-香港
+http://hls.168.us.kg/u/96/master.m3u8
+#EXTINF:-1 tvg-name="浙江卫视4K" group-title="超清频道",浙江卫视4K
+https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
+#EXTINF:-1 tvg-name="北京卫视4K" group-title="超清频道",北京卫视4K
+http://106.53.99.30/tv/bj.php?id=bjws4k
+#EXTINF:-1 tvg-name="南国都市4K" group-title="超清频道",南国都市4K
+https://stream1.freetv.fun/4knan-guo-du-shi-1.m3u8
+#EXTINF:-1 tvg-name="北京卫视4K" group-title="超清频道",北京卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?IAS
+#EXTINF:-1 tvg-name="北京卫视4K" group-title="超清频道",北京卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?IAS
+#EXTINF:-1 tvg-name="湖南卫视4K" group-title="超清频道",湖南卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IAS
+#EXTINF:-1 tvg-name="东方卫视4K" group-title="超清频道",东方卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?IAS
+#EXTINF:-1 tvg-name="东方卫视4K" group-title="超清频道",东方卫视4K
+http://106.53.99.30/tv/api.php?id=dfws4k
+#EXTINF:-1 tvg-name="四川卫视4K" group-title="超清频道",四川卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS
+#EXTINF:-1 tvg-name="山东卫视4K" group-title="超清频道",山东卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IAS
+#EXTINF:-1 tvg-name="广东卫视4K" group-title="超清频道",广东卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001540/index.m3u8?IAS
+#EXTINF:-1 tvg-name="广东卫视4K" group-title="超清频道",广东卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS
+#EXTINF:-1 tvg-name="江苏卫视4K" group-title="超清频道",江苏卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?IAS
+#EXTINF:-1 tvg-name="浙江卫视4K" group-title="超清频道",浙江卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IAS
+#EXTINF:-1 tvg-name="深圳卫视4K" group-title="超清频道",深圳卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS
+#EXTINF:-1 tvg-name="深圳卫视4K" group-title="超清频道",深圳卫视4K
+https://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?IAS
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视系列",广西卫视
+http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视系列",广东卫视
+http://183.47.2.156:16883/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-name="广东珠江台" group-title="卫视系列",广东珠江台
+http://113.90.247.67:85/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视系列",东南卫视
+http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视系列",吉林卫视
+http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视系列",河南卫视
+http://tvtj1.jxwltx.com:8003/hnws.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视系列",河北卫视
+http://api.kkitv.itv888.cn:8080/hls/nd41hwdr82i/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视系列",山东卫视
+http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视系列",山西卫视
+http://sh.lnott.top:880/dx39.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视系列",陕西卫视
+http://api.kkitv.itv888.cn:8080/hls/hyy3w1xyoaw/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视系列",黑龙江卫视
+http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视系列",湖南卫视
+http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视系列",兵团卫视
+http://api.kkitv.itv888.cn:8080/hls/nbzfa7gljzp/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视系列",内蒙古卫视
+http://api.kkitv.itv888.cn:8080/hls/t4wf5047i/index.m3u8
+#EXTINF:-1 tvg-name="河西频道" group-title="卫视系列",河西频道
+http://sun.woisun.com:5555/udp/225.1.2.4:5002
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视系列",安徽卫视
+http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视系列",天津卫视
+http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8
+#EXTINF:-1 tvg-name="农林卫视" group-title="卫视系列",农林卫视
+http://gxlive.snrtv.com/nlws-SD.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视系列",辽宁卫视
+http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视系列",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视系列",江苏卫视
+http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视系列",云南卫视
+http://api.kkitv.itv888.cn:8080/hls/jwvhleddq5/index.m3u8
+#EXTINF:-1 tvg-name="广州新闻" group-title="卫视系列",广州新闻
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视系列",深圳卫视
+http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视系列",新疆卫视
+http://api.kkitv.itv888.cn:8080/hls/vr12qgtucx/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视系列",重庆卫视
+http://sh.lnott.top:880/dx54.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视系列",青海卫视
+http://sh.lnott.top:880/dx53.m3u8
+#EXTINF:-1 tvg-name="朝阳融媒" group-title="卫视系列",朝阳融媒
+http://61.49.119.78:8888/rtp/239.3.1.163:8001
+#EXTINF:-1 tvg-name="佛山综合" group-title="卫视系列",佛山综合
+http://119.138.50.135:2086/udp/239.253.43.57:5146
+#EXTINF:-1 tvg-name="佛山南海" group-title="卫视系列",佛山南海
+http://word.mtoo.vip:8333/udp/239.253.43.54:5146
+#EXTINF:-1 tvg-name="青田电视" group-title="卫视系列",青田电视
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="辽宁都市" group-title="卫视系列",辽宁都市
+http://ygbh.site/php/bfgd.php?id=610
+#EXTINF:-1 tvg-name="四川电影" group-title="卫视系列",四川电影
+http://171.213.216.113:5555/udp/239.93.1.95:5140
+#EXTINF:-1 tvg-name="CCTV-01咪咕" group-title="央视咪咕",CCTV-01咪咕
+http://go.bkpcp.top/mg/cctv1
+#EXTINF:-1 tvg-name="CCTV-02咪咕" group-title="央视咪咕",CCTV-02咪咕
+http://go.bkpcp.top/mg/cctv2
+#EXTINF:-1 tvg-name="CCTV-03咪咕" group-title="央视咪咕",CCTV-03咪咕
+http://go.bkpcp.top/mg/cctv3
+#EXTINF:-1 tvg-name="CCTV-04咪咕" group-title="央视咪咕",CCTV-04咪咕
+http://go.bkpcp.top/mg/cctv4
+#EXTINF:-1 tvg-name="CCTV-05咪咕" group-title="央视咪咕",CCTV-05咪咕
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 tvg-name="CCTV-5+咪咕" group-title="央视咪咕",CCTV-5+咪咕
+http://go.bkpcp.top/mg/cctv5p
+#EXTINF:-1 tvg-name="CCTV-06咪咕" group-title="央视咪咕",CCTV-06咪咕
+http://go.bkpcp.top/mg/cctv6
+#EXTINF:-1 tvg-name="CCTV-07咪咕" group-title="央视咪咕",CCTV-07咪咕
+http://go.bkpcp.top/mg/cctv7
+#EXTINF:-1 tvg-name="CCTV-08咪咕" group-title="央视咪咕",CCTV-08咪咕
+http://go.bkpcp.top/mg/cctv8
+#EXTINF:-1 tvg-name="CCTV-09咪咕" group-title="央视咪咕",CCTV-09咪咕
+http://go.bkpcp.top/mg/cctv9
+#EXTINF:-1 tvg-name="CCTV-10咪咕" group-title="央视咪咕",CCTV-10咪咕
+http://go.bkpcp.top/mg/cctv10
+#EXTINF:-1 tvg-name="CCTV-11咪咕" group-title="央视咪咕",CCTV-11咪咕
+http://go.bkpcp.top/mg/cctv11
+#EXTINF:-1 tvg-name="CCTV-12咪咕" group-title="央视咪咕",CCTV-12咪咕
+http://go.bkpcp.top/mg/cctv12
+#EXTINF:-1 tvg-name="CCTV-13咪咕" group-title="央视咪咕",CCTV-13咪咕
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1 tvg-name="CCTV-14咪咕" group-title="央视咪咕",CCTV-14咪咕
+http://go.bkpcp.top/mg/cctv14
+#EXTINF:-1 tvg-name="CCTV-15咪咕" group-title="央视咪咕",CCTV-15咪咕
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1 tvg-name="CCTV-16咪咕" group-title="央视咪咕",CCTV-16咪咕
+http://go.bkpcp.top/mg/cctv16
+#EXTINF:-1 tvg-name="CCTV-17咪咕" group-title="央视咪咕",CCTV-17咪咕
+http://go.bkpcp.top/mg/cctv17
+#EXTINF:-1 tvg-name="cct4欧洲咪咕" group-title="央视咪咕",cct4欧洲咪咕
+http://go.bkpcp.top/mg/cctv4o
+#EXTINF:-1 tvg-name="cct4美洲咪咕" group-title="央视咪咕",cct4美洲咪咕
+http://go.bkpcp.top/mg/cctv4m
+#EXTINF:-1 tvg-name="CGTN-西咪咕" group-title="央视咪咕",CGTN-西咪咕
+http://go.bkpcp.top/mg/cgtne
+#EXTINF:-1 tvg-name="CGTN-阿咪咕" group-title="央视咪咕",CGTN-阿咪咕
+http://go.bkpcp.top/mg/cgtna
+#EXTINF:-1 tvg-name="CGTN-法咪咕" group-title="央视咪咕",CGTN-法咪咕
+http://go.bkpcp.top/mg/cgtnf
+#EXTINF:-1 tvg-name="CCTV-01咪咕" group-title="央视咪咕",CCTV-01咪咕
+http://j.s.bkpcp.top/jj/cctv1
+#EXTINF:-1 tvg-name="CCTV-02咪咕" group-title="央视咪咕",CCTV-02咪咕
+http://j.s.bkpcp.top/jj/cctv2
+#EXTINF:-1 tvg-name="CCTV-03咪咕" group-title="央视咪咕",CCTV-03咪咕
+http://j.s.bkpcp.top/jj/cctv3
+#EXTINF:-1 tvg-name="CCTV-04咪咕" group-title="央视咪咕",CCTV-04咪咕
+http://j.s.bkpcp.top/jj/cctv4
+#EXTINF:-1 tvg-name="CCTV-05咪咕" group-title="央视咪咕",CCTV-05咪咕
+http://j.s.bkpcp.top/jj/cctv5
+#EXTINF:-1 tvg-name="CCTV-5+咪咕" group-title="央视咪咕",CCTV-5+咪咕
+http://j.s.bkpcp.top/jj/cctv5p
+#EXTINF:-1 tvg-name="CCTV-06咪咕" group-title="央视咪咕",CCTV-06咪咕
+http://j.s.bkpcp.top/jj/cctv6
+#EXTINF:-1 tvg-name="CCTV-07咪咕" group-title="央视咪咕",CCTV-07咪咕
+http://j.s.bkpcp.top/jj/cctv7
+#EXTINF:-1 tvg-name="CCTV-08咪咕" group-title="央视咪咕",CCTV-08咪咕
+http://j.s.bkpcp.top/jj/cctv8
+#EXTINF:-1 tvg-name="CCTV-09咪咕" group-title="央视咪咕",CCTV-09咪咕
+http://j.s.bkpcp.top/jj/cctv9
+#EXTINF:-1 tvg-name="CCTV-10咪咕" group-title="央视咪咕",CCTV-10咪咕
+http://j.s.bkpcp.top/jj/cctv10
+#EXTINF:-1 tvg-name="CCTV-11咪咕" group-title="央视咪咕",CCTV-11咪咕
+http://j.s.bkpcp.top/jj/cctv11
+#EXTINF:-1 tvg-name="CCTV-12咪咕" group-title="央视咪咕",CCTV-12咪咕
+http://j.s.bkpcp.top/jj/cctv12
+#EXTINF:-1 tvg-name="CCTV-13咪咕" group-title="央视咪咕",CCTV-13咪咕
+http://j.s.bkpcp.top/jj/cctv13
+#EXTINF:-1 tvg-name="CCTV-14咪咕" group-title="央视咪咕",CCTV-14咪咕
+http://j.s.bkpcp.top/jj/cctv14
+#EXTINF:-1 tvg-name="CCTV-15咪咕" group-title="央视咪咕",CCTV-15咪咕
+http://j.s.bkpcp.top/jj/cctv15
+#EXTINF:-1 tvg-name="CCTV-16咪咕" group-title="央视咪咕",CCTV-16咪咕
+http://j.s.bkpcp.top/jj/cctv16
+#EXTINF:-1 tvg-name="CCTV-17咪咕" group-title="央视咪咕",CCTV-17咪咕
+http://j.s.bkpcp.top/jj/cctv17
+#EXTINF:-1 tvg-name="cct4欧洲咪咕" group-title="央视咪咕",cct4欧洲咪咕
+http://j.s.bkpcp.top/jj/cctv4o
+#EXTINF:-1 tvg-name="cct4美洲咪咕" group-title="央视咪咕",cct4美洲咪咕
+http://j.s.bkpcp.top/jj/cctv4m
+#EXTINF:-1 tvg-name="CGTN-西咪咕" group-title="央视咪咕",CGTN-西咪咕
+http://j.s.bkpcp.top/jj/cgtne
+#EXTINF:-1 tvg-name="CGTN-阿咪咕" group-title="央视咪咕",CGTN-阿咪咕
+http://j.s.bkpcp.top/jj/cgtna
+#EXTINF:-1 tvg-name="CGTN-法咪咕" group-title="央视咪咕",CGTN-法咪咕
+http://j.s.bkpcp.top/jj/cgtnf
+#EXTINF:-1 tvg-name="CCTV-01咪咕" group-title="央视咪咕",CCTV-01咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV-02咪咕" group-title="央视咪咕",CCTV-02咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV-03咪咕" group-title="央视咪咕",CCTV-03咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV-04咪咕" group-title="央视咪咕",CCTV-04咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV-05咪咕" group-title="央视咪咕",CCTV-05咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV-5+咪咕" group-title="央视咪咕",CCTV-5+咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV-06咪咕" group-title="央视咪咕",CCTV-06咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV-07咪咕" group-title="央视咪咕",CCTV-07咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV-08咪咕" group-title="央视咪咕",CCTV-08咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv8
+#EXTINF:-1 tvg-name="CCTV-09咪咕" group-title="央视咪咕",CCTV-09咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV-10咪咕" group-title="央视咪咕",CCTV-10咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV-11咪咕" group-title="央视咪咕",CCTV-11咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV-12咪咕" group-title="央视咪咕",CCTV-12咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV-13咪咕" group-title="央视咪咕",CCTV-13咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV-14咪咕" group-title="央视咪咕",CCTV-14咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV-15咪咕" group-title="央视咪咕",CCTV-15咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV-16咪咕" group-title="央视咪咕",CCTV-16咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv16
+#EXTINF:-1 tvg-name="CCTV-17咪咕" group-title="央视咪咕",CCTV-17咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv17
+#EXTINF:-1 tvg-name="ESPN-1" group-title="Espn体育",ESPN-1
+http://46.151.196.223:14432/
+#EXTINF:-1 tvg-name="ESPN-2" group-title="Espn体育",ESPN-2
+http://46.151.196.223:14438/
+#EXTINF:-1 tvg-name="ESPN-3" group-title="Espn体育",ESPN-3
+http://46.151.196.223:14444/
+#EXTINF:-1 tvg-name="ESPN-4" group-title="Espn体育",ESPN-4
+http://46.151.196.223:14450/
+#EXTINF:-1 tvg-name="NOW SPORTS PRIME" group-title="体育频道",NOW SPORTS PRIME
+http://hls.168.us.kg/u/630/master.m3u8
+#EXTINF:-1 tvg-name="VIUTV全运-1" group-title="体育频道",VIUTV全运-1
+http://hls.168.us.kg/u/961/master.m3u8
+#EXTINF:-1 tvg-name="VIUTV全运-2" group-title="体育频道",VIUTV全运-2
+http://hls.168.us.kg/u/962/master.m3u8
+#EXTINF:-1 tvg-name="VIUTV全运-3" group-title="体育频道",VIUTV全运-3
+http://hls.168.us.kg/u/963/master.m3u8
+#EXTINF:-1 tvg-name="VIUTV全运-4" group-title="体育频道",VIUTV全运-4
+http://hls.168.us.kg/u/964/master.m3u8
+#EXTINF:-1 tvg-name="智林体育台" group-title="体育频道",智林体育台
+http://211.23.125.95:50007/4gtv-4gtv101/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="HBO" group-title="国外频道",HBO
+http://148.113.160.49:14187/
+#EXTINF:-1 tvg-name="HBO +" group-title="国外频道",HBO +
+http://148.113.160.49:14193/
+#EXTINF:-1 tvg-name="HBO FANILY" group-title="国外频道",HBO FANILY
+http://148.113.160.49:14190/
+#EXTINF:-1 tvg-name="HBO POP" group-title="国外频道",HBO POP
+http://148.113.160.49:14180/
+#EXTINF:-1 tvg-name="HBO XTREME" group-title="国外频道",HBO XTREME
+http://148.113.160.49:14175/
+#EXTINF:-1 tvg-name="HBO MUNDL" group-title="国外频道",HBO MUNDL
+http://148.113.160.49:14183/
+#EXTINF:-1 tvg-name="BBC NEW" group-title="国外频道",BBC NEW
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="ABC News Australia" group-title="国外频道",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" group-title="国外频道",BBC Earth
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 tvg-name="Ayush TV" group-title="国外频道",Ayush TV
+http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-name="Wion News" group-title="国外频道",Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-name="FILM arts" group-title="国外频道",FILM arts
+http://148.113.160.49:14210/
+#EXTINF:-1 tvg-name="CINEMAX" group-title="国外频道",CINEMAX
+http://148.113.160.49:14200/
+#EXTINF:-1 tvg-name="USA 电视" group-title="国外频道",USA 电视
+http://148.113.160.49:14133/
+#EXTINF:-1 tvg-name="Megapix" group-title="国外频道",Megapix
+http://148.113.160.49:14172/
+#EXTINF:-1 tvg-name="Modo Viagem" group-title="国外频道",Modo Viagem
+http://148.113.160.49:14214/
+#EXTINF:-1 tvg-name="华纳 - WBTV" group-title="国外频道",华纳 - WBTV
+http://148.113.160.49:14130/
+#EXTINF:-1 tvg-name="环球国际频道" group-title="国外频道",环球国际频道
+http://148.113.160.49:14135/
+#EXTINF:-1 tvg-name="环球影视频道" group-title="国外频道",环球影视频道
+http://148.113.160.49:14162/
+#EXTINF:-1 tvg-name="TNT 剧集频道" group-title="国外频道",TNT 剧集频道
+http://148.113.160.49:14138/
+#EXTINF:-1 tvg-name="TNT 电视" group-title="国外频道",TNT 电视
+http://148.113.160.49:14141/
+#EXTINF:-1 tvg-name="AMC 米高梅电影" group-title="国外频道",AMC 米高梅电影
+http://148.113.160.49:14207/
+#EXTINF:-1 tvg-name="TELE CINE FUN" group-title="国外频道",TELE CINE FUN
+http://148.113.160.49:14155/
+#EXTINF:-1 tvg-name="TELE CINE Action" group-title="国外频道",TELE CINE Action
+http://148.113.160.49:14159/
+#EXTINF:-1 tvg-name="SPACE" group-title="国外频道",SPACE
+http://148.113.160.49:14170/
+#EXTINF:-1 tvg-name="周润发电影院" group-title="电影直播",周润发电影院
+http://222.186.39.38:8000/587078/index.m3u8
+#EXTINF:-1 tvg-name="恐怖电影院" group-title="电影直播",恐怖电影院
+https://yylunbo.ottiptv.cc/yy/24066336
+#EXTINF:-1 tvg-name="成龙电影院" group-title="电影直播",成龙电影院
+https://yylunbo.ottiptv.cc/yy/1382736841
+#EXTINF:-1 tvg-name="天浪电影台 - CH1" group-title="电影直播",天浪电影台 - CH1
+https://yylunbo.ottiptv.cc/yy/1382736857
+#EXTINF:-1 tvg-name="天浪电影台 - CH2" group-title="电影直播",天浪电影台 - CH2
+https://tv.ximix.us/yy/1382736823
+#EXTINF:-1 tvg-name="天浪电影台 - CH3" group-title="电影直播",天浪电影台 - CH3
+http://cfss.cc/cdn/hy/11336587.m3u8
+#EXTINF:-1 tvg-name="天浪电影台 - CH4" group-title="电影直播",天浪电影台 - CH4
+http://cfss.cc/cdn/hy/11342412.m3u8
+#EXTINF:-1 tvg-name="天浪电影台 - CH5" group-title="电影直播",天浪电影台 - CH5
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天浪电影台 - CH6" group-title="电影直播",天浪电影台 - CH6
+http://cfss.cc/cdn/hy/11352941.m3u8
+#EXTINF:-1 tvg-name="天浪电影台 - CH7" group-title="电影直播",天浪电影台 - CH7
+http://cfss.cc/cdn/hy/11342414.m3u8
+#EXTINF:-1 tvg-name="天浪电影台 - CH8" group-title="电影直播",天浪电影台 - CH8
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
+#EXTINF:-1 tvg-name="天浪电影台 - CH9" group-title="电影直播",天浪电影台 - CH9
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
+#EXTINF:-1 tvg-name="天浪电影台 - CH10" group-title="电影直播",天浪电影台 - CH10
+http://cfss.cc/cdn/hy/11602058.m3u8
+#EXTINF:-1 tvg-name="天浪电影台 - CH11" group-title="电影直播",天浪电影台 - CH11
+http://39.88.224.188:23456/udp/239.253.254.142:8000
+#EXTINF:-1 tvg-name="天浪电影台 - CH12" group-title="电影直播",天浪电影台 - CH12
+http://cfss.cc/cdn/hy/11336719.m3u8
+#EXTINF:-1 tvg-name="天浪电影台 - CH13" group-title="电影直播",天浪电影台 - CH13
+https://yylunbo.ottiptv.cc/yy/1382851522
+#EXTINF:-1 tvg-name="天浪电影台 - CH14" group-title="电影直播",天浪电影台 - CH14
+http://cfss.cc/cdn/hy/11602043.m3u8
+#EXTINF:-1 tvg-name="天浪电影台 - CH15" group-title="电影直播",天浪电影台 - CH15
+http://cfss.cc/cdn/hy/11352886.m3u8
+#EXTINF:-1 tvg-name="天浪电影台 - CH16" group-title="电影直播",天浪电影台 - CH16
+http://cfss.cc/cdn/hy/11352894.m3u8
+#EXTINF:-1 tvg-name="天浪电影台 - CH17" group-title="电影直播",天浪电影台 - CH17
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV 第一剧场" group-title="央视数字",CCTV 第一剧场
+http://nas.home.plugintool.top:2333/udp/239.76.254.49:9000
+#EXTINF:-1 tvg-name="CCTV 风云剧场" group-title="央视数字",CCTV 风云剧场
+http://nas.home.plugintool.top:2333/udp/239.76.254.50:9000
+#EXTINF:-1 tvg-name="CCTV 怀旧剧场" group-title="央视数字",CCTV 怀旧剧场
+http://nas.home.plugintool.top:2333/udp/239.76.254.53:9000
+#EXTINF:-1 tvg-name="CCTV 电视指南" group-title="央视数字",CCTV 电视指南
+http://nas.home.plugintool.top:2333/udp/239.76.254.61:9000
+#EXTINF:-1 tvg-name="CCTV 世界地理" group-title="央视数字",CCTV 世界地理
+http://nas.home.plugintool.top:2333/udp/239.76.254.57:9000
+#EXTINF:-1 tvg-name="CCTV 兵器科技" group-title="央视数字",CCTV 兵器科技
+http://nas.home.plugintool.top:2333/udp/239.76.254.59:9000
+#EXTINF:-1 tvg-name="CCTV 央视台球" group-title="央视数字",CCTV 央视台球
+http://nas.home.plugintool.top:2333/udp/239.76.254.58:9000
+#EXTINF:-1 tvg-name="CCTV 文化精品" group-title="央视数字",CCTV 文化精品
+http://nas.home.plugintool.top:2333/udp/239.76.254.56:9000
+#EXTINF:-1 tvg-name="CCTV 女性时尚" group-title="央视数字",CCTV 女性时尚
+http://nas.home.plugintool.top:2333/udp/239.76.254.55:9000
+#EXTINF:-1 tvg-name="CCTV 风云足球" group-title="央视数字",CCTV 风云足球
+http://nas.home.plugintool.top:2333/udp/239.76.254.52:9000
+#EXTINF:-1 tvg-name="CCTV 风云音乐" group-title="央视数字",CCTV 风云音乐
+http://nas.home.plugintool.top:2333/udp/239.76.254.51:9000
+#EXTINF:-1 tvg-name="中国天气" group-title="央视数字",中国天气
+http://nas.home.plugintool.top:2333/udp/239.76.253.61:9000
+#EXTINF:-1 tvg-name="CHC 家庭影院" group-title="央视数字",CHC 家庭影院
+http://nas.home.plugintool.top:2333/udp/239.76.252.241:9000
+#EXTINF:-1 tvg-name="CHC 影迷电影" group-title="央视数字",CHC 影迷电影
+http://nas.home.plugintool.top:2333/udp/239.76.252.242:9000
+#EXTINF:-1 tvg-name="CHC 动作电影" group-title="央视数字",CHC 动作电影
+http://nas.home.plugintool.top:2333/udp/239.76.252.243:9000
+#EXTINF:-1 tvg-name="CCTV 高尔夫网球" group-title="央视数字",CCTV 高尔夫网球
+http://nas.home.plugintool.top:2333/udp/239.76.254.62:9000
+#EXTINF:-1 tvg-name="纪实科教" group-title="央视数字",纪实科教
+http://nas.home.plugintool.top:2333/udp/239.76.254.65:9000
+#EXTINF:-1 tvg-name="欢笑剧场" group-title="央视数字",欢笑剧场
+http://nas.home.plugintool.top:2333/udp/239.76.254.66:9000
+#EXTINF:-1 tvg-name="东方财经" group-title="央视数字",东方财经
+http://nas.home.plugintool.top:2333/udp/239.76.254.69:9000
+#EXTINF:-1 tvg-name="乐游频道" group-title="央视数字",乐游频道
+http://nas.home.plugintool.top:2333/udp/239.76.254.68:9000
+#EXTINF:-1 tvg-name="动漫秀场" group-title="央视数字",动漫秀场
+http://nas.home.plugintool.top:2333/udp/239.76.254.70:9000
+#EXTINF:-1 tvg-name="法治天地" group-title="央视数字",法治天地
+http://nas.home.plugintool.top:2333/udp/239.76.254.67:9000
+#EXTINF:-1 tvg-name="游戏风云" group-title="央视数字",游戏风云
+http://nas.home.plugintool.top:2333/udp/239.76.254.71:9000
+#EXTINF:-1 tvg-name="生活时尚" group-title="央视数字",生活时尚
+http://nas.home.plugintool.top:2333/udp/239.76.254.73:9000
+#EXTINF:-1 tvg-name="都市剧场" group-title="央视数字",都市剧场
+http://nas.home.plugintool.top:2333/udp/239.76.254.74:9000
+#EXTINF:-1 tvg-name="金色学堂" group-title="央视数字",金色学堂
+http://nas.home.plugintool.top:2333/udp/239.76.254.75:9000
+#EXTINF:-1 tvg-name="梨园频道" group-title="央视数字",梨园频道
+http://nas.home.plugintool.top:2333/udp/239.76.252.179:9000
+#EXTINF:-1 tvg-name="文物宝库" group-title="央视数字",文物宝库
+http://nas.home.plugintool.top:2333/udp/239.76.252.180:9000
+#EXTINF:-1 tvg-name="武术世界" group-title="央视数字",武术世界
+http://nas.home.plugintool.top:2333/udp/239.76.252.181:9000
+#EXTINF:-1 tvg-name="魅力足球" group-title="央视数字",魅力足球
+http://nas.home.plugintool.top:2333/udp/239.76.254.72:9000
+#EXTINF:-1 tvg-name="天元围棋" group-title="央视数字",天元围棋
+http://nas.home.plugintool.top:2333/udp/239.76.253.2:9000
+#EXTINF:-1 tvg-name="CCTV 电视指南" group-title="央视数字",CCTV 电视指南
+http://www.qfly9236.cn:8888/rtp/239.253.92.17:6078
+#EXTINF:-1 tvg-name="CCTV 世界地理" group-title="央视数字",CCTV 世界地理
+http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
+#EXTINF:-1 tvg-name="CCTV 怀旧剧场" group-title="央视数字",CCTV 怀旧剧场
+http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
+#EXTINF:-1 tvg-name="CCTV 风云剧场" group-title="央视数字",CCTV 风云剧场
+http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
+#EXTINF:-1 tvg-name="CCTV 风云足球" group-title="央视数字",CCTV 风云足球
+http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
+#EXTINF:-1 tvg-name="CCTV 风云音乐" group-title="央视数字",CCTV 风云音乐
+http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
+#EXTINF:-1 tvg-name="CCTV 第一剧场" group-title="央视数字",CCTV 第一剧场
+http://www.qfly9236.cn:8888/rtp/239.253.92.18:6079
+#EXTINF:-1 tvg-name="CCTV 央视文化精品" group-title="央视数字",CCTV 央视文化精品
+http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
+#EXTINF:-1 tvg-name="CCTV 高尔夫网球" group-title="央视数字",CCTV 高尔夫网球
+http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062
+#EXTINF:-1 tvg-name="CCTV 央视台球" group-title="央视数字",CCTV 央视台球
+http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
+#EXTINF:-1 tvg-name="CCTV 女性时尚" group-title="央视数字",CCTV 女性时尚
+http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
+#EXTINF:-1 tvg-name="CCTV 电视指南" group-title="央视数字",CCTV 电视指南
+http://www.dwphic.com:9999/udp/239.69.1.87:10162
+#EXTINF:-1 tvg-name="CCTV 世界地理" group-title="央视数字",CCTV 世界地理
+http://www.dwphic.com:9999/rtp/239.69.1.91:10186
+#EXTINF:-1 tvg-name="CCTV 怀旧剧场" group-title="央视数字",CCTV 怀旧剧场
+http://www.dwphic.com:9999/udp/239.69.1.89:10174
+#EXTINF:-1 tvg-name="CCTV 风云足球" group-title="央视数字",CCTV 风云足球
+http://www.dwphic.com:9999/rtp/239.69.1.81:10126
+#EXTINF:-1 tvg-name="CCTV 风云音乐" group-title="央视数字",CCTV 风云音乐
+http://www.dwphic.com:9999/udp/239.69.1.90:10180
+#EXTINF:-1 tvg-name="CCTV 第一剧场" group-title="央视数字",CCTV 第一剧场
+http://www.dwphic.com:9999/rtp/239.69.1.74:10084
+#EXTINF:-1 tvg-name="CCTV 兵器科技" group-title="央视数字",CCTV 兵器科技
+http://www.dwphic.com:9999/rtp/239.69.1.79:10114
+#EXTINF:-1 tvg-name="CCTV 高尔夫网球" group-title="央视数字",CCTV 高尔夫网球
+http://www.dwphic.com:9999/rtp/239.69.1.83:10138
+#EXTINF:-1 tvg-name="CCTV 央视台球" group-title="央视数字",CCTV 央视台球
+http://www.dwphic.com:9999/rtp/239.69.1.98:10224
+#EXTINF:-1 tvg-name="CCTV 女性时尚" group-title="央视数字",CCTV 女性时尚
+http://www.dwphic.com:9999/udp/239.69.1.86:10156
+#EXTINF:-1 tvg-name="CCTV 电视指南" group-title="央视数字",CCTV 电视指南
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.17:6078
+#EXTINF:-1 tvg-name="CCTV 世界地理" group-title="央视数字",CCTV 世界地理
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.113:8066
+#EXTINF:-1 tvg-name="CCTV 怀旧剧场" group-title="央视数字",CCTV 怀旧剧场
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.98:6120
+#EXTINF:-1 tvg-name="CCTV 风云剧场" group-title="央视数字",CCTV 风云剧场
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.22:6073
+#EXTINF:-1 tvg-name="CCTV 风云足球" group-title="央视数字",CCTV 风云足球
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.110:8061
+#EXTINF:-1 tvg-name="CCTV 第一剧场" group-title="央视数字",CCTV 第一剧场
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.18:6079
+#EXTINF:-1 tvg-name="CCTV 央视文化精品" group-title="央视数字",CCTV 央视文化精品
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.25:6104
+#EXTINF:-1 tvg-name="CCTV 高尔夫网球" group-title="央视数字",CCTV 高尔夫网球
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.117:8062
+#EXTINF:-1 tvg-name="CCTV 央视台球" group-title="央视数字",CCTV 央视台球
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.93.231:6409
+#EXTINF:-1 tvg-name="CCTV 女性时尚" group-title="央视数字",CCTV 女性时尚
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.249:6103
+#EXTINF:-1 tvg-name="CCTV 电视指南" group-title="央视数字",CCTV 电视指南
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.87:10162
+#EXTINF:-1 tvg-name="CCTV 世界地理" group-title="央视数字",CCTV 世界地理
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.91:10186
+#EXTINF:-1 tvg-name="CCTV 怀旧剧场" group-title="央视数字",CCTV 怀旧剧场
+http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.89:10174
+#EXTINF:-1 tvg-name="CCTV 风云足球" group-title="央视数字",CCTV 风云足球
+https://stream1.freetv.fun/f2138a8afdae84246099c1f3bb72aa3714e369f6cec03df0f951f5883f2ca5f8.m3u8
+#EXTINF:-1 tvg-name="CCTV 第一剧场" group-title="央视数字",CCTV 第一剧场
+https://stream1.freetv.fun/082605c18b041701787a8a5628c178edede0874bb6b833775
+#EXTINF:-1 tvg-name="CCTV-4 中文欧洲台" group-title="央视数字",CCTV-4 中文欧洲台
+http://1.30.81.248:4022/udp/239.125.2.196:4120
+#EXTINF:-1 tvg-name="翡翠一台 - CH01" group-title="香港无线",翡翠一台 - CH01
+http://iptv.4666888.xyz/iptv2A.php?id=TVB1
+#EXTINF:-1 tvg-name="翡翠一台 - CH01" group-title="香港无线",翡翠一台 - CH01
+http://iptv.4666888.xyz/iptv2A.php?id=TVB1
+#EXTINF:-1 tvg-name="无线翡翠 - CH02" group-title="香港无线",无线翡翠 - CH02
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="黄金翡翠 - CH03" group-title="香港无线",黄金翡翠 - CH03
+http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-name="华丽翡翠 - CH04" group-title="香港无线",华丽翡翠 - CH04
+http://66.90.99.154:8278/Wlt/playlist.m3u8?tid=MEBE9742919997429199&ct=20376&tsum=6f07a8a5e79c3277010fdb6477aa9006
+#EXTINF:-1 tvg-name="明珠翡翠 - CH05" group-title="香港无线",明珠翡翠 - CH05
+http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
+#EXTINF:-1 tvg-name="无线千禧 - CH07" group-title="香港无线",无线千禧 - CH07
+http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
+#EXTINF:-1 tvg-name="无线新闻 - CH07" group-title="香港无线",无线新闻 - CH07
+https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="娱乐新闻 - CH08" group-title="香港无线",娱乐新闻 - CH08
+https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="泰国剧集 - CH09" group-title="香港无线",泰国剧集 - CH09
+https://stream1.freetv.fun/tvb-viet-nam-1.m3u8
+#EXTINF:-1 tvg-name="星河频道 - CH10" group-title="香港无线",星河频道 - CH10
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 tvg-name="无线功夫 - CH11" group-title="香港无线",无线功夫 - CH11
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 tvg-name="华视新闻 HD" group-title="台湾新闻",华视新闻 HD
+http://123.51.136.80:8319/0.ts
+#EXTINF:-1 tvg-name="华视新闻资讯" group-title="台湾新闻",华视新闻资讯
+http://211.23.125.95:50007/4gtv-4gtv052/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="东森财经新闻" group-title="台湾新闻",东森财经新闻
+http://211.23.125.95:50007/4gtv-4gtv153/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天资讯" group-title="台湾新闻",靖天资讯
+http://211.23.125.95:50007/4gtv-4gtv065/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="TVBS HD" group-title="台湾新闻",TVBS HD
+https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻" group-title="台湾新闻",TVBS新闻
+http://211.23.125.95:50007/4gtv-4gtv072/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="东森新闻" group-title="台湾新闻",东森新闻
+http://211.23.125.95:50007/4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视台湾" group-title="台湾新闻",民视台湾
+http://211.23.125.95:50007/4gtv-4gtv001/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视" group-title="台湾新闻",民视
+http://211.23.125.95:50007/4gtv-4gtv002/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视第一" group-title="台湾新闻",民视第一
+http://211.23.125.95:50007/4gtv-4gtv003/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中天新闻" group-title="台湾新闻",中天新闻
+http://211.23.125.95:50007/4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="非凡新闻" group-title="台湾新闻",非凡新闻
+http://211.23.125.95:50007/4gtv-4gtv010/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="镜新闻" group-title="台湾新闻",镜新闻
+http://211.23.125.95:50007/4gtv-4gtv075/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="寰宇新闻台湾" group-title="台湾新闻",寰宇新闻台湾
+http://211.23.125.95:50007/4gtv-4gtv156/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中视新闻HD" group-title="台湾新闻",中视新闻HD
+http://211.23.125.95:50007/4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="台视新闻" group-title="台湾新闻",台视新闻
+http://123.51.136.80:8314/0.ts
+#EXTINF:-1 tvg-name="PTS-XS" group-title="台湾新闻",PTS-XS
+http://123.51.136.80:8312/0.ts
+#EXTINF:-1 tvg-name="民视台湾" group-title="台湾新闻",民视台湾
+http://123.51.136.80:8311/0.ts
+#EXTINF:-1 tvg-name="民视新闻" group-title="台湾新闻",民视新闻
+http://123.51.136.80:8310/0.ts
+#EXTINF:-1 tvg-name="民视第一" group-title="台湾新闻",民视第一
+http://123.51.136.80:8309/0.ts
+#EXTINF:-1 tvg-name="民视" group-title="台湾新闻",民视
+http://123.51.136.80:8308/0.ts
+#EXTINF:-1 tvg-name="客家电视" group-title="台湾新闻",客家电视
+http://123.51.136.80:8307/0.ts
+#EXTINF:-1 tvg-name="公视台湾" group-title="台湾新闻",公视台湾
+http://123.51.136.80:8306/0.ts
+#EXTINF:-1 tvg-name="公视" group-title="台湾新闻",公视
+http://123.51.136.80:8305/0.ts
+#EXTINF:-1 tvg-name="中视新闻" group-title="台湾新闻",中视新闻
+http://123.51.136.80:8302/0.ts
+#EXTINF:-1 tvg-name="中视" group-title="台湾新闻",中视
+http://123.51.136.80:8301/0.ts
+#EXTINF:-1 tvg-name="中视箐采" group-title="台湾新闻",中视箐采
+http://123.51.136.80:8322/0.ts
+#EXTINF:-1 tvg-name="民视新闻" group-title="台湾新闻",民视新闻
+http://211.72.174.95:8117/0.ts
+#EXTINF:-1 tvg-name="中视" group-title="台湾新闻",中视
+http://211.72.174.95:8113/0.ts
+#EXTINF:-1 tvg-name="华视" group-title="台湾新闻",华视
+http://211.72.174.95:8114/0.ts
+#EXTINF:-1 tvg-name="公视" group-title="台湾新闻",公视
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 tvg-name="民视" group-title="台湾新闻",民视
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 tvg-name="台视" group-title="台湾新闻",台视
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1 tvg-name="台视财经" group-title="台湾新闻",台视财经
+http://211.23.125.95:50007/4gtv-4gtv056/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="台视财经" group-title="台湾新闻",台视财经
+http://123.51.136.80:8315/0.ts
+#EXTINF:-1 tvg-name="台视新闻" group-title="台湾新闻",台视新闻
+http://211.23.125.95:50007/4gtv-4gtv051/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="TITV" group-title="台湾娱乐",TITV
+http://123.51.136.80:8303/0.ts
+#EXTINF:-1 tvg-name="台视  HD" group-title="台湾娱乐",台视  HD
+http://123.51.136.80:8313/0.ts
+#EXTINF:-1 tvg-name="台视综合" group-title="台湾娱乐",台视综合
+http://123.51.136.80:8316/0.ts
+#EXTINF:-1 tvg-name="FTV综艺" group-title="台湾娱乐",FTV综艺
+http://211.23.125.95:50007/4gtv-4gtv004/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="猪哥亮歌秀" group-title="台湾娱乐",猪哥亮歌秀
+http://211.23.125.95:50007/4gtv-4gtv006/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="FGM" group-title="台湾娱乐",FGM
+http://211.23.125.95:50007/4gtv-4gtv011/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="CNEX" group-title="台湾娱乐",CNEX
+http://211.23.125.95:50007/4gtv-4gtv013/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="韩国娱乐" group-title="台湾娱乐",韩国娱乐
+http://211.23.125.95:50007/4gtv-4gtv016/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="Davinci" group-title="台湾娱乐",Davinci
+http://211.23.125.95:50007/4gtv-4gtv018/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="八大精彩" group-title="台湾娱乐",八大精彩
+http://211.23.125.95:50007/4gtv-4gtv034/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="八大综合" group-title="台湾娱乐",八大综合
+http://211.23.125.95:50007/4gtv-4gtv039/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中视" group-title="台湾娱乐",中视
+http://211.23.125.95:50007/4gtv-4gtv040/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="华视" group-title="台湾娱乐",华视
+http://211.23.125.95:50007/4gtv-4gtv041/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="公视戏剧" group-title="台湾娱乐",公视戏剧
+http://211.23.125.95:50007/4gtv-4gtv042/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="客家电视" group-title="台湾娱乐",客家电视
+http://211.23.125.95:50007/4gtv-4gtv043/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天卡通" group-title="台湾娱乐",靖天卡通
+http://211.23.125.95:50007/4gtv-4gtv044/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖洋戏剧" group-title="台湾娱乐",靖洋戏剧
+http://211.23.125.95:50007/4gtv-4gtv045/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天综合" group-title="台湾娱乐",靖天综合
+http://211.23.125.95:50007/4gtv-4gtv046/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天日本" group-title="台湾娱乐",靖天日本
+http://211.23.125.95:50007/4gtv-4gtv047/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="非凡商业" group-title="台湾娱乐",非凡商业
+http://211.23.125.95:50007/4gtv-4gtv048/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="采昌电视" group-title="台湾娱乐",采昌电视
+http://211.23.125.95:50007/4gtv-4gtv049/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天欢乐" group-title="台湾娱乐",靖天欢乐
+http://211.23.125.95:50007/4gtv-4gtv054/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天映画" group-title="台湾娱乐",靖天映画
+http://211.23.125.95:50007/4gtv-4gtv055/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖羊卡通" group-title="台湾娱乐",靖羊卡通
+http://211.23.125.95:50007/4gtv-4gtv057/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天戏剧" group-title="台湾娱乐",靖天戏剧
+http://211.23.125.95:50007/4gtv-4gtv058/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="古典音乐" group-title="台湾娱乐",古典音乐
+http://211.23.125.95:50007/4gtv-4gtv059/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天电影" group-title="台湾娱乐",靖天电影
+http://211.23.125.95:50007/4gtv-4gtv061/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天音乐" group-title="台湾娱乐",靖天音乐
+http://211.23.125.95:50007/4gtv-4gtv062/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天国际" group-title="台湾娱乐",靖天国际
+http://211.23.125.95:50007/4gtv-4gtv063/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中视菁采" group-title="台湾娱乐",中视菁采
+http://211.23.125.95:50007/4gtv-4gtv064/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="台视HD" group-title="台湾娱乐",台视HD
+http://211.23.125.95:50007/4gtv-4gtv066/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="TVBS精彩" group-title="台湾娱乐",TVBS精彩
+http://211.23.125.95:50007/4gtv-4gtv067/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="TVBS欢乐" group-title="台湾娱乐",TVBS欢乐
+http://211.23.125.95:50007/4gtv-4gtv068/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="ELTA娱乐" group-title="台湾娱乐",ELTA娱乐
+http://211.23.125.95:50007/4gtv-4gtv070/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="TVBSHD" group-title="台湾娱乐",TVBSHD
+http://211.23.125.95:50007/4gtv-4gtv073/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="亚洲旅游" group-title="台湾娱乐",亚洲旅游
+http://211.23.125.95:50007/4gtv-4gtv076/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="orirangkorea" group-title="台湾娱乐",orirangkorea
+http://211.23.125.95:50007/4gtv-4gtv079/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中视经典" group-title="台湾娱乐",中视经典
+http://211.23.125.95:50007/4gtv-4gtv080/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="URBAN" group-title="台湾娱乐",URBAN
+http://211.23.125.95:50007/4gtv-4gtv082/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="mezzo" group-title="台湾娱乐",mezzo
+http://211.23.125.95:50007/4gtv-4gtv083/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="国会频道1" group-title="台湾娱乐",国会频道1
+http://211.23.125.95:50007/4gtv-4gtv084/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="国会频道2" group-title="台湾娱乐",国会频道2
+http://211.23.125.95:50007/4gtv-4gtv085/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="东森购物1" group-title="台湾娱乐",东森购物1
+http://211.23.125.95:50007/4gtv-4gtv102/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="东森购物2" group-title="台湾娱乐",东森购物2
+http://211.23.125.95:50007/4gtv-4gtv103/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="亚洲证券" group-title="台湾娱乐",亚洲证券
+http://211.23.125.95:50007/4gtv-4gtv104/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中天亚洲" group-title="台湾娱乐",中天亚洲
+http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视" group-title="台湾娱乐",民视
+http://211.23.125.95:50007/4gtv-4gtv155/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="GiNXTV" group-title="台湾娱乐",GiNXTV
+http://211.23.125.95:50007/4gtv-4gtv053/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="CCTV-01" group-title="央视备用",CCTV-01
+http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=cctv1
+#EXTINF:-1 tvg-name="CCTV-02" group-title="央视备用",CCTV-02
+http://www.kaniptv.cn/mk.php?ip=sdxztest1.abcnic.com:&id=live1009
+#EXTINF:-1 tvg-name="CCTV-03" group-title="央视备用",CCTV-03
+https://stream1.freetv.fun/cctv3-39.m3u8
+#EXTINF:-1 tvg-name="CCTV-03" group-title="央视备用",CCTV-03
+http://www.chutouge.top:34022/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-name="CCTV-04" group-title="央视备用",CCTV-04
+http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=cctv4
+#EXTINF:-1 tvg-name="CCTV-05" group-title="央视备用",CCTV-05
+http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=cctv5
+#EXTINF:-1 tvg-name="CCTV-06" group-title="央视备用",CCTV-06
+https://stream1.freetv.fun/cctv6-27.m3u8
+#EXTINF:-1 tvg-name="CCTV-07" group-title="央视备用",CCTV-07
+http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=cctv7
+#EXTINF:-1 tvg-name="CCTV-08" group-title="央视备用",CCTV-08
+http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=cctv8
+#EXTINF:-1 tvg-name="CCTV-08" group-title="央视备用",CCTV-08
+https://stream1.freetv.fun/cctv8-21.m3u8
+#EXTINF:-1 tvg-name="CCTV-09" group-title="央视备用",CCTV-09
+https://stream1.freetv.fun/cctv9-43.m3u8
+#EXTINF:-1 tvg-name="CCTV-10" group-title="央视备用",CCTV-10
+http://mgsp-ali2.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=20251104100047fcb98e172c7d4514aba54042a02bbc53&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20251104100047&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.88&SecurityKey=20251104100047&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&encrypt=7e89e487ad23adf0622bdea777a245b1
+#EXTINF:-1 tvg-name="CCTV-11" group-title="央视备用",CCTV-11
+http://www.kaniptv.cn/mk.php?ip=123.121.0.32:8014&id=cctv11
+#EXTINF:-1 tvg-name="CCTV-12" group-title="央视备用",CCTV-12
+https://shyd.695847.xyz/cms001/ch00000090990000001239/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+#EXTINF:-1 tvg-name="CCTV-13" group-title="央视备用",CCTV-13
+http://mgsp-ws2.live.miguvideo.com:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=202511041000488a8382a67c56456fb199072ec59858b7&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251104100048&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.88&SecurityKey=20251104100048&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&encrypt=65e13b50443998a96e44c6f05a9efdfd
+#EXTINF:-1 tvg-name="CCTV-14" group-title="央视备用",CCTV-14
+http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=cctv14
+#EXTINF:-1 tvg-name="CCTV-15" group-title="央视备用",CCTV-15
+http://www.kaniptv.cn/mk.php?ip=123.121.0.32:8014&id=cctv15
+#EXTINF:-1 tvg-name="CCTV-17" group-title="央视备用",CCTV-17
+http://183.162.112.32:8686/rtp/238.1.78.178:7296
+#EXTINF:-1 tvg-name="信号测试-1" group-title="测试上新",信号测试-1
+http://ygbh.site/php/bfgd.php?id=100
+#EXTINF:-1 tvg-name="信号测试-2" group-title="测试上新",信号测试-2
+http://ygbh.site/php/bfgd.php?id=101
+#EXTINF:-1 tvg-name="信号测试-3" group-title="测试上新",信号测试-3
+http://ygbh.site/php/bfgd.php?id=102
+#EXTINF:-1 tvg-name="信号测试-4" group-title="测试上新",信号测试-4
+http://ygbh.site/php/bfgd.php?id=103
+#EXTINF:-1 tvg-name="信号测试-5" group-title="测试上新",信号测试-5
+http://ygbh.site/php/bfgd.php?id=105
+#EXTINF:-1 tvg-name="信号测试-5" group-title="测试上新",信号测试-5
+http://ygbh.site/php/bfgd.php?id=107
+#EXTINF:-1 tvg-name="信号测试-7" group-title="测试上新",信号测试-7
+http://ygbh.site/php/bfgd.php?id=106
+#EXTINF:-1 tvg-name="信号测试-8" group-title="测试上新",信号测试-8
+http://ygbh.site/php/bfgd.php?id=108
+#EXTINF:-1 tvg-name="信号测试-9" group-title="测试上新",信号测试-9
+http://ygbh.site/php/bfgd.php?id=109
+#EXTINF:-1 tvg-name="信号测试-10" group-title="测试上新",信号测试-10
+http://ygbh.site/php/bfgd.php?id=110
+#EXTINF:-1 tvg-name="信号测试-11" group-title="测试上新",信号测试-11
+http://ygbh.site/php/bfgd.php?id=112
+#EXTINF:-1 tvg-name="信号测试-12" group-title="测试上新",信号测试-12
+http://ygbh.site/php/bfgd.php?id=113
+#EXTINF:-1 tvg-name="信号测试-13" group-title="测试上新",信号测试-13
+http://ygbh.site/php/bfgd.php?id=111
+#EXTINF:-1 tvg-name="信号测试-14" group-title="测试上新",信号测试-14
+http://ygbh.site/php/bfgd.php?id=117
+#EXTINF:-1 tvg-name="信号测试-15" group-title="测试上新",信号测试-15
+http://ygbh.site/php/bfgd.php?id=118
+#EXTINF:-1 tvg-name="信号测试-16" group-title="测试上新",信号测试-16
+http://ygbh.site/php/bfgd.php?id=119
+#EXTINF:-1 tvg-name="信号测试-17" group-title="测试上新",信号测试-17
+http://ygbh.site/php/bfgd.php?id=121
+#EXTINF:-1 tvg-name="信号测试-18" group-title="测试上新",信号测试-18
+http://ygbh.site/php/bfgd.php?id=122
+#EXTINF:-1 tvg-name="信号测试-19" group-title="测试上新",信号测试-19
+http://ygbh.site/php/bfgd.php?id=124
+#EXTINF:-1 tvg-name="信号测试-20" group-title="测试上新",信号测试-20
+http://ygbh.site/php/bfgd.php?id=128
+#EXTINF:-1 tvg-name="信号测试-21" group-title="测试上新",信号测试-21
+http://ygbh.site/php/bfgd.php?id=127
+#EXTINF:-1 tvg-name="信号测试-22" group-title="测试上新",信号测试-22
+http://ygbh.site/php/bfgd.php?id=129
+#EXTINF:-1 tvg-name="信号测试-23" group-title="测试上新",信号测试-23
+http://ygbh.site/php/bfgd.php?id=130
+#EXTINF:-1 tvg-name="信号测试-24" group-title="测试上新",信号测试-24
+http://ygbh.site/php/bfgd.php?id=133
+#EXTINF:-1 tvg-name="信号测试-25" group-title="测试上新",信号测试-25
+http://ygbh.site/php/bfgd.php?id=131
+#EXTINF:-1 tvg-name="信号测试-26" group-title="测试上新",信号测试-26
+http://ygbh.site/php/bfgd.php?id=132
+#EXTINF:-1 tvg-name="信号测试-27" group-title="测试上新",信号测试-27
+http://ygbh.site/php/bfgd.php?id=134
+#EXTINF:-1 tvg-name="信号测试-28" group-title="测试上新",信号测试-28
+http://ygbh.site/php/bfgd.php?id=135
+#EXTINF:-1 tvg-name="信号测试-29" group-title="测试上新",信号测试-29
+http://ygbh.site/php/bfgd.php?id=141
+#EXTINF:-1 tvg-name="信号测试-30" group-title="测试上新",信号测试-30
+http://ygbh.site/php/bfgd.php?id=147
+#EXTINF:-1 tvg-name="信号测试-31" group-title="测试上新",信号测试-31
+http://ygbh.site/php/bfgd.php?id=150
+#EXTINF:-1 tvg-name="信号测试-32" group-title="测试上新",信号测试-32
+http://ygbh.site/php/bfgd.php?id=149
+#EXTINF:-1 tvg-name="信号测试-33" group-title="测试上新",信号测试-33
+http://ygbh.site/php/bfgd.php?id=151
+#EXTINF:-1 tvg-name="信号测试-34" group-title="测试上新",信号测试-34
+http://ygbh.site/php/bfgd.php?id=158
+#EXTINF:-1 tvg-name="信号测试-35" group-title="测试上新",信号测试-35
+http://ygbh.site/php/bfgd.php?id=162
+#EXTINF:-1 tvg-name="信号测试-36" group-title="测试上新",信号测试-36
+http://ygbh.site/php/bfgd.php?id=164
+#EXTINF:-1 tvg-name="信号测试-37" group-title="测试上新",信号测试-37
+http://ygbh.site/php/bfgd.php?id=169
+#EXTINF:-1 tvg-name="信号测试-38" group-title="测试上新",信号测试-38
+http://ygbh.site/php/bfgd.php?id=166
+#EXTINF:-1 tvg-name="信号测试-39" group-title="测试上新",信号测试-39
+http://ygbh.site/php/bfgd.php?id=168
+#EXTINF:-1 tvg-name="信号测试-40" group-title="测试上新",信号测试-40
+http://ygbh.site/php/bfgd.php?id=181
+#EXTINF:-1 tvg-name="信号测试-41" group-title="测试上新",信号测试-41
+http://ygbh.site/php/bfgd.php?id=180
+#EXTINF:-1 tvg-name="信号测试-42" group-title="测试上新",信号测试-42
+http://ygbh.site/php/bfgd.php?id=176
+#EXTINF:-1 tvg-name="信号测试-43" group-title="测试上新",信号测试-43
+http://ygbh.site/php/bfgd.php?id=177
+#EXTINF:-1 tvg-name="信号测试-44" group-title="测试上新",信号测试-44
+http://ygbh.site/php/bfgd.php?id=185
+#EXTINF:-1 tvg-name="信号测试-45" group-title="测试上新",信号测试-45
+http://ygbh.site/php/bfgd.php?id=187
+#EXTINF:-1 tvg-name="信号测试-46" group-title="测试上新",信号测试-46
+http://ygbh.site/php/bfgd.php?id=204
+#EXTINF:-1 tvg-name="信号测试-47" group-title="测试上新",信号测试-47
+http://ygbh.site/php/bfgd.php?id=201
+#EXTINF:-1 tvg-name="信号测试-48" group-title="测试上新",信号测试-48
+http://ygbh.site/php/bfgd.php?id=224
+#EXTINF:-1 tvg-name="信号测试-49" group-title="测试上新",信号测试-49
+http://ygbh.site/php/bfgd.php?id=225
+#EXTINF:-1 tvg-name="信号测试-50" group-title="测试上新",信号测试-50
+http://ygbh.site/php/bfgd.php?id=228
+#EXTINF:-1 tvg-name="信号测试-51" group-title="测试上新",信号测试-51
+http://ygbh.site/php/bfgd.php?id=229
+#EXTINF:-1 tvg-name="信号测试-52" group-title="测试上新",信号测试-52
+http://ygbh.site/php/bfgd.php?id=231
+#EXTINF:-1 tvg-name="信号测试-53" group-title="测试上新",信号测试-53
+http://ygbh.site/php/bfgd.php?id=242
+#EXTINF:-1 tvg-name="信号测试-54" group-title="测试上新",信号测试-54
+http://ygbh.site/php/bfgd.php?id=246
+#EXTINF:-1 tvg-name="信号测试-55" group-title="测试上新",信号测试-55
+http://ygbh.site/php/bfgd.php?id=249
+#EXTINF:-1 tvg-name="信号测试-56" group-title="测试上新",信号测试-56
+http://ygbh.site/php/bfgd.php?id=275
+#EXTINF:-1 tvg-name="信号测试-57" group-title="测试上新",信号测试-57
+http://ygbh.site/php/bfgd.php?id=274
+#EXTINF:-1 tvg-name="信号测试-58" group-title="测试上新",信号测试-58
+http://ygbh.site/php/bfgd.php?id=273
+#EXTINF:-1 tvg-name="信号测试-59" group-title="测试上新",信号测试-59
+http://ygbh.site/php/bfgd.php?id=276
+#EXTINF:-1 tvg-name="信号测试-60" group-title="测试上新",信号测试-60
+http://ygbh.site/php/bfgd.php?id=277
+#EXTINF:-1 tvg-name="信号测试-61" group-title="测试上新",信号测试-61
+http://ygbh.site/php/bfgd.php?id=278
+#EXTINF:-1 tvg-name="信号测试-62" group-title="测试上新",信号测试-62
+http://ygbh.site/php/bfgd.php?id=279
+#EXTINF:-1 tvg-name="信号测试-63" group-title="测试上新",信号测试-63
+http://ygbh.site/php/bfgd.php?id=282
+#EXTINF:-1 tvg-name="信号测试-64" group-title="测试上新",信号测试-64
+http://ygbh.site/php/bfgd.php?id=284
+#EXTINF:-1 tvg-name="信号测试-65" group-title="测试上新",信号测试-65
+http://ygbh.site/php/bfgd.php?id=281
+#EXTINF:-1 tvg-name="信号测试-66" group-title="测试上新",信号测试-66
+http://ygbh.site/php/bfgd.php?id=280
+#EXTINF:-1 tvg-name="信号测试-67" group-title="测试上新",信号测试-67
+http://ygbh.site/php/bfgd.php?id=283
+#EXTINF:-1 tvg-name="信号测试-68" group-title="测试上新",信号测试-68
+http://ygbh.site/php/bfgd.php?id=288
+#EXTINF:-1 tvg-name="信号测试-69" group-title="测试上新",信号测试-69
+http://ygbh.site/php/bfgd.php?id=287
+#EXTINF:-1 tvg-name="信号测试-70" group-title="测试上新",信号测试-70
+http://ygbh.site/php/bfgd.php?id=286
+#EXTINF:-1 tvg-name="信号测试-71" group-title="测试上新",信号测试-71
+http://ygbh.site/php/bfgd.php?id=289
+#EXTINF:-1 tvg-name="信号测试-72" group-title="测试上新",信号测试-72
+http://ygbh.site/php/bfgd.php?id=291
+#EXTINF:-1 tvg-name="信号测试-73" group-title="测试上新",信号测试-73
+http://ygbh.site/php/bfgd.php?id=293
+#EXTINF:-1 tvg-name="信号测试-74" group-title="测试上新",信号测试-74
+http://ygbh.site/php/bfgd.php?id=290
+#EXTINF:-1 tvg-name="信号测试-75" group-title="测试上新",信号测试-75
+http://ygbh.site/php/bfgd.php?id=294
+#EXTINF:-1 tvg-name="信号测试-76" group-title="测试上新",信号测试-76
+http://ygbh.site/php/bfgd.php?id=296
+#EXTINF:-1 tvg-name="信号测试-77" group-title="测试上新",信号测试-77
+http://ygbh.site/php/bfgd.php?id=298
+#EXTINF:-1 tvg-name="信号测试-78" group-title="测试上新",信号测试-78
+http://ygbh.site/php/bfgd.php?id=297
+#EXTINF:-1 tvg-name="信号测试-79" group-title="测试上新",信号测试-79
+http://ygbh.site/php/bfgd.php?id=295
+#EXTINF:-1 tvg-name="信号测试-80" group-title="测试上新",信号测试-80
+http://ygbh.site/php/bfgd.php?id=306
+#EXTINF:-1 tvg-name="信号测试-81" group-title="测试上新",信号测试-81
+http://ygbh.site/php/bfgd.php?id=307
+#EXTINF:-1 tvg-name="信号测试-82" group-title="测试上新",信号测试-82
+http://ygbh.site/php/bfgd.php?id=308
+#EXTINF:-1 tvg-name="信号测试-83" group-title="测试上新",信号测试-83
+http://ygbh.site/php/bfgd.php?id=309
+#EXTINF:-1 tvg-name="信号测试-84" group-title="测试上新",信号测试-84
+http://ygbh.site/php/bfgd.php?id=312
+#EXTINF:-1 tvg-name="信号测试-85" group-title="测试上新",信号测试-85
+http://ygbh.site/php/bfgd.php?id=339
+#EXTINF:-1 tvg-name="信号测试-86" group-title="测试上新",信号测试-86
+http://ygbh.site/php/bfgd.php?id=349
+#EXTINF:-1 tvg-name="信号测试-87" group-title="测试上新",信号测试-87
+http://ygbh.site/php/bfgd.php?id=350
+#EXTINF:-1 tvg-name="信号测试-88" group-title="测试上新",信号测试-88
+http://ygbh.site/php/bfgd.php?id=396
+#EXTINF:-1 tvg-name="信号测试-89" group-title="测试上新",信号测试-89
+http://ygbh.site/php/bfgd.php?id=473
+#EXTINF:-1 tvg-name="信号测试-90" group-title="测试上新",信号测试-90
+http://ygbh.site/php/bfgd.php?id=480
+#EXTINF:-1 tvg-name="信号测试-91" group-title="测试上新",信号测试-91
+http://ygbh.site/php/bfgd.php?id=483
+#EXTINF:-1 tvg-name="信号测试-92" group-title="测试上新",信号测试-92
+http://ygbh.site/php/bfgd.php?id=484
+#EXTINF:-1 tvg-name="信号测试-93" group-title="测试上新",信号测试-93
+http://ygbh.site/php/bfgd.php?id=482
+#EXTINF:-1 tvg-name="信号测试-94" group-title="测试上新",信号测试-94
+http://ygbh.site/php/bfgd.php?id=481
+#EXTINF:-1 tvg-name="信号测试-95" group-title="测试上新",信号测试-95
+http://ygbh.site/php/bfgd.php?id=489
+#EXTINF:-1 tvg-name="信号测试-96" group-title="测试上新",信号测试-96
+http://ygbh.site/php/bfgd.php?id=488
+#EXTINF:-1 tvg-name="信号测试-97" group-title="测试上新",信号测试-97
+http://ygbh.site/php/bfgd.php?id=490
+#EXTINF:-1 tvg-name="信号测试-98" group-title="测试上新",信号测试-98
+http://ygbh.site/php/bfgd.php?id=492
+#EXTINF:-1 tvg-name="信号测试-99" group-title="测试上新",信号测试-99
+http://ygbh.site/php/bfgd.php?id=491
+#EXTINF:-1 tvg-name="信号测试-100" group-title="测试上新",信号测试-100
+http://ygbh.site/php/bfgd.php?id=502
+#EXTINF:-1 tvg-name="信号测试-101" group-title="测试上新",信号测试-101
+http://ygbh.site/php/bfgd.php?id=501
+#EXTINF:-1 tvg-name="信号测试-102" group-title="测试上新",信号测试-102
+http://ygbh.site/php/bfgd.php?id=512
+#EXTINF:-1 tvg-name="信号测试-103" group-title="测试上新",信号测试-103
+http://ygbh.site/php/bfgd.php?id=610
+#EXTINF:-1 tvg-name="信号测试-104" group-title="测试上新",信号测试-104
+http://ygbh.site/php/bfgd.php?id=611
+#EXTINF:-1 tvg-name="信号测试-105" group-title="测试上新",信号测试-105
+http://ygbh.site/php/bfgd.php?id=615
+#EXTINF:-1 tvg-name="信号测试-106" group-title="测试上新",信号测试-106
+http://ygbh.site/php/bfgd.php?id=626
+#EXTINF:-1 tvg-name="信号测试-107" group-title="测试上新",信号测试-107
+http://ygbh.site/php/bfgd.php?id=633
+#EXTINF:-1 tvg-name="信号测试-108" group-title="测试上新",信号测试-108
+http://ygbh.site/php/bfgd.php?id=635
+#EXTINF:-1 tvg-name="信号测试-109" group-title="测试上新",信号测试-109
+http://ygbh.site/php/bfgd.php?id=636
+#EXTINF:-1 tvg-name="信号测试-110" group-title="测试上新",信号测试-110
+http://ygbh.site/php/bfgd.php?id=643
